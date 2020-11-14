@@ -1,0 +1,8 @@
+HISTCOUNT=10
+HISTFILECOUNT=20
+
+alias d='ls -al'
+alias tesdir='pwd'
+alias bds='df -h|grep sda1'
+
+PATH=$PATH:/home/mark/bin:/home/mark/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
